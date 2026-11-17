@@ -1,0 +1,52 @@
+TAP version 13
+# Subtest: five distinct rounds, three/five mode and shared story
+ok 1 - five distinct rounds, three/five mode and shared story
+  ---
+  duration_ms: 2.466883
+  type: 'test'
+  ...
+# Subtest: four resource-specific scenarios at each stage
+ok 2 - four resource-specific scenarios at each stage
+  ---
+  duration_ms: 0.721465
+  type: 'test'
+  ...
+# Subtest: QR-style room joins, balanced random teams, shared story, separate secret mandates
+ok 3 - QR-style room joins, balanced random teams, shared story, separate secret mandates
+  ---
+  duration_ms: 9.284109
+  type: 'test'
+  ...
+# Subtest: income compounds; severe wage cuts trigger strikes and stop passive income; mediation can reopen work
+ok 4 - income compounds; severe wage cuts trigger strikes and stop passive income; mediation can reopen work
+  ---
+  duration_ms: 2.716322
+  type: 'test'
+  ...
+# Subtest: teams can trade by private offers, offers not visible publicly until reveal, independent VC ratings
+ok 5 - teams can trade by private offers, offers not visible publicly until reveal, independent VC ratings
+  ---
+  duration_ms: 6.949262
+  type: 'test'
+  ...
+# Subtest: quick mode skips rounds 2 and 4 and finishes on summit
+ok 6 - quick mode skips rounds 2 and 4 and finishes on summit
+  ---
+  duration_ms: 2.949806
+  type: 'test'
+  ...
+# Subtest: intel investment unlocks advanced option and warns player; regional collapse triggers crisis
+ok 7 - intel investment unlocks advanced option and warns player; regional collapse triggers crisis
+  ---
+  duration_ms: 2.170715
+  type: 'test'
+  ...
+1..7
+# tests 7
+# suites 0
+# pass 7
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 96.201216
